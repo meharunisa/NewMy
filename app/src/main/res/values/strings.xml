@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">NewMy</string>
+    <string-array name="titles">
+        <item>Memo 1</item>
+        <item>Memo 2</item>
+        <item>Memo 3</item>
+        <item>Memo 4</item>
+        <item>Memo 5</item>
+        <item>Memo 6</item>
+        <item>Memo 6</item>
+        <item>Memo 7</item>
+        <item>Memo 8</item>
+        <item>Memo 9</item>
+        <item>Memo 10</item>
+
+    </string-array>
+    <string-array name="descriptions">
+        <item>this is des 1</item>
+        <item>this is des 2</item>
+        <item>this is des 3</item>
+        <item>this is des 4</item>
+        <item>this is des 5</item>
+        <item>this is des 6</item>
+        <item>this is des 7</item>
+        <item>this is des 8</item>
+        <item>this is des 9</item>
+        <item>this is des 10</item>
+
+
+
+
+
+
+
+
+
+
+    </string-array>
+</resources>
